@@ -172,10 +172,11 @@ def calculate_bmi(request):
 
 ## SERVER SIDE PROCESSING:
 
-![alt text](<Screenshot 2025-10-07 093756.png>)
+![alt text](<Screenshot 2025-10-07 094605.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-10-07 092021.png>)
+
+![alt text](<Screenshot 2025-10-07 094928.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
